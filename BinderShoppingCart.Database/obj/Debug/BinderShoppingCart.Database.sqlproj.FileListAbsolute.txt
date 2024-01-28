@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\bin\Debug\BinderShoppingCart.Database.dacpac
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\obj\Debug\BinderShoppingCart.Database.sqlproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\obj\Debug\Model.xml
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\obj\Debug\refactor.xml
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\obj\Debug\postdeploy.sql
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\obj\Debug\predeploy.sql
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\obj\Debug\BinderShoppingCart.Database.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database\obj\Debug\BinderShoppingCart.Database.pdb

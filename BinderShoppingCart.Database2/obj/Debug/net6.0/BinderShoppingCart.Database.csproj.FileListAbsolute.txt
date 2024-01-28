@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\bin\Debug\net6.0\BinderShoppingCart.Database.deps.json
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\bin\Debug\net6.0\BinderShoppingCart.Database.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\bin\Debug\net6.0\BinderShoppingCart.Database.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\BinderShoppingCart.Database.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\BinderShoppingCart.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\BinderShoppingCart.Database.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\BinderShoppingCart.Database.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\BinderShoppingCart.Database.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\BinderShoppingCart.Database.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\refint\BinderShoppingCart.Database.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\BinderShoppingCart.Database.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Database2\obj\Debug\net6.0\ref\BinderShoppingCart.Database.dll

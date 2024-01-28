@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>BinderShoppingCart.OAuth._2._0</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.26" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BinderShoppingCart.Data.Transformation.Objects\BinderShoppingCart.Data.Transformation.Objects.csproj" />
+    <ProjectReference Include="..\BinderShoppingCart.Repository\BinderShoppingCart.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

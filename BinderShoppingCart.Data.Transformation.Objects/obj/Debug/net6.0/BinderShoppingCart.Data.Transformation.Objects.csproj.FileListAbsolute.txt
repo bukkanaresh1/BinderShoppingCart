@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\bin\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.deps.json
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\bin\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\bin\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\refint\BinderShoppingCart.Data.Transformation.Objects.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.Data.Transformation.Objects\obj\Debug\net6.0\ref\BinderShoppingCart.Data.Transformation.Objects.dll

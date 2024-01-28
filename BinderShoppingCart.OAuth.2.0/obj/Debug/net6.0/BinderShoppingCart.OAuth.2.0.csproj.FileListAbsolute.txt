@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\bin\Debug\net6.0\BinderShoppingCart.OAuth.2.0.deps.json
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\bin\Debug\net6.0\BinderShoppingCart.OAuth.2.0.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\bin\Debug\net6.0\BinderShoppingCart.OAuth.2.0.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\bin\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\bin\Debug\net6.0\BinderShoppingCart.Repository.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\bin\Debug\net6.0\BinderShoppingCart.Data.Transformation.Objects.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\bin\Debug\net6.0\BinderShoppingCart.Repository.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\refint\BinderShoppingCart.OAuth.2.0.dll
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\BinderShoppingCart.OAuth.2.0.pdb
+C:\Users\ADMIN\source\repos\BinderShoppingCart\BinderShoppingCart.OAuth.2.0\obj\Debug\net6.0\ref\BinderShoppingCart.OAuth.2.0.dll
